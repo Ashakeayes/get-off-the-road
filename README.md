@@ -1,4 +1,4 @@
-# get-off-the-road
+<img width="468" height="109" alt="image" src="https://github.com/user-attachments/assets/17d0518e-be19-4ad6-9bf8-c0bfff487c9b" /># get-off-the-road
 Get off the road!, is a video game inspired by the nostaglic experience of playing a game you once used to play in your childhood but sadly facing the reality that it may not be as fun now that you have grown up. 
 I wanted to make something that evoked those feelings of nostalgia while also being something that one can enjoy and is relatable to them now in their adult context. 
 Get off the road is that game! 
@@ -39,5 +39,11 @@ Get off the road!, purpose is to unlock that childlike part of your brain by evo
 * Press A to jump
 
 ## Acknowledgements 
+* My project was inspired and helped by:
+* Microsoft. (n.d.). Cat Jumper. [Game Code]. Microsoft MakeCode Arcade. https://arcade.makecode.com/blocks-games/cat-jumper 
+* Microsoft MakeCode. (2020, September 18). How to Increase the Difficulty of Your MakeCode Arcade Game [Video]. YouTube. https://www.youtube.com/watch?v=KFT9joQrSSM
+* I did have some other resources help guide me as well however these were the ones that were most helpful 
+
+
 
 
