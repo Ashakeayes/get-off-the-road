@@ -1,1 +1,12 @@
-Here i will put code notes from week 12
+# This is what i did in week 12 and the sources that helped me and gave me inspiration: 
+
+# Created enemy sprites and created functions to map out their behaviours 
+* Salisbury Library Service. (2021, August 2). MakeCode Arcade Tutorial 4: Enemies [Video]. YouTube. https://www.youtube.com/watch?v=Nz9xXNfhqAc&t=292s  
+* Collision detetcion with overlap functions
+* Microsoft. (n.d.). Cat Jumper. [Game]. Microsoft MakeCode Arcade. https://arcade.makecode.com/blocks-games/cat-jumper  
+* Figured out how to disable to collision detetcion when the redcar was jumping/ A was pressed
+* Microsoft. (n.d.). Activity: Sprite Overlap Events. Microsoft MakeCode Arcade.
+https://arcade.makecode.com/courses/csintro3/events/overlap 
+* Making certain enemies speed and spawn time increase as the game went on and setting forever loops 
+* Microsoft MakeCode. (2020, September 18). How to Increase the Difficulty of Your MakeCode Arcade Game [Video]. YouTube. https://www.youtube.com/watch?v=KFT9joQrSSM 
+* Unknown Author(n.d.). Space Shooter- increased difficulty [Game Code]. Microsoft MakeCode Arcade. https://arcade.makecode.com/55907-81135-33705-28070 
