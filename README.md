@@ -8,7 +8,6 @@ Mixing similar game play elememts from childhood classic games but set in a cont
 *  [General Information](#general-Information)
 *  [Technologies Used](#Technologies-Used) 
 *  [Features](#Features)
-*  [Screenshots](#Screenshots)
 *  [Setup](#Setup)
 *  [Usage](#Usage)
 *  [Acknowledgements](#Acknowledgements) 
@@ -26,9 +25,6 @@ Get off the road!, purpose is to unlock that childlike part of your brain by evo
 *  Try and get through each 15 seconds to increase your score
 *  Enemies spawn faster and are quicker as you continue to play
 *  You only have three lives
-
-## Screenshots 
- 
 
 ## Setup 
 For game:
@@ -76,7 +72,13 @@ sprites.on_overlap(SpriteKind.enemy, SpriteKind.player, on_overlap)
     enemySpawnTime += -150
     enemySpawnTime = max(enemySpawnTime, 500)
 game.on_update_interval(10000, on_update_interval2)
-* The time that enemies spawn decreases and their speed increases over time 
+* The game increase difficulty as you continue to play 
+#### Scores 
+* def on_update_interval():
+    info.change_score_by(1)
+game.on_update_interval(15000, on_update_interval)
+* You can reach a new level every 15 seconds in the game 
+
 
 ## Acknowledgements 
 * My project was inspired and helped by:
