@@ -43,7 +43,7 @@ For my Git Hub:
 * controller.A.on_event(ControllerButtonEvent.PRESSED, on_a_pressed)
 * controller.move_sprite(RedCar, 120, 0)
 * Jump and move left and right to avoid enemies 
-*How enemies spawn 
+#### How enemies spawn 
 * def on_forever():
     global EnemyPinkCar
     EnemyPinkCar = sprites.create(assets.image("""Pink car"""), SpriteKind.enemy)
@@ -58,7 +58,7 @@ forever(on_forever)
     EnemyOrangeCar.set_velocity(0, 100)
 game.on_update_interval(7000, on_update_interval3)
 * They spawn from the top of the screen and fall down- some with increasing speeds some not  
-* Collision detection and lives 
+#### Collision detection and lives 
 * def on_overlap(sprite, otherSprite):
     info.change_life_by(-1)
     scene.camera_shake(3, 500)
@@ -67,7 +67,7 @@ game.on_update_interval(7000, on_update_interval3)
     pause(100)
 sprites.on_overlap(SpriteKind.enemy, SpriteKind.player, on_overlap)
 * The enemy is destroyed and RedCar loses a life each time it collides with an enemy
-* Increasing difficulty 
+#### Increasing difficulty 
 * def on_update_interval2():
     global enemySpeed, enemySpawnTime
     enemySpeed += 5
@@ -81,7 +81,7 @@ game.on_update_interval(10000, on_update_interval2)
 * My project was inspired and helped by:
 * Microsoft. (n.d.). Cat Jumper. [Game Code]. Microsoft MakeCode Arcade. https://arcade.makecode.com/blocks-games/cat-jumper 
 * Microsoft MakeCode. (2020, September 18). How to Increase the Difficulty of Your MakeCode Arcade Game [Video]. YouTube. https://www.youtube.com/watch?v=KFT9joQrSSM
-* I did have some other resources help guide me as well however these were the ones that were most helpful 
+* I did have some other resources help guide me as well which are noted in the week folders
 
 
 
