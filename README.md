@@ -24,7 +24,7 @@ Get off the roads purpose is to unlock that childlike part of your brain by evok
 * Python
 
 ## Features 
-*  Jump and dodge (moving left and right) multiple enemies that come at you
+*  Jump and dodge (moving left and right) multiple types of enemies that come at you
 *  Try and get through each 15 seconds to increase your score
 *  Enemies spawn faster and are quicker as you continue to play
 *  You only have three lives
