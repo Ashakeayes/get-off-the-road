@@ -4,7 +4,7 @@ I wanted to make something that evoked those feelings of nostalgia while also be
 Get off the road is that game! 
 Mixing similar game play elememts from childhood classic games but set in a context relatable to us now, which is about navigating the terrible Sydney traffic with potholes and bad drivers, as fast as you can. 
 
-Table of Contents
+##Table of Contents
 General information 
 Technolgoies Used
 
