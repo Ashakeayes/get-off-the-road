@@ -5,7 +5,7 @@ Get off the road is that game!
 Mixing similar game play elememts from childhood classic games but set in a context relatable to us now, which is about navigating the terrible Sydney traffic with potholes and bad drivers, as fast as you can. 
 
 Table of Contents
-General information
+General information 
 Technolgoies Used
 
 General information 
