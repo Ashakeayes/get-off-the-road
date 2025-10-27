@@ -1,3 +1,5 @@
 This week i did the following:
-I made the player jump when pressing the a button through creating an event and setting the gravity for RedCar so it would come back down and not just go up 
+1. I made the player jump when pressing the a button through creating an event and setting the gravity for RedCar so it would come back down and not just go up 
 This source helped me (one of the ones noted under acknowledgments): Microsoft. (n.d.). Cat Jumper. [Game Code]. Microsoft MakeCode Arcade. https://arcade.makecode.com/blocks-games/cat-jumper 
+2. I also set the players lives 
+3. started to write more code comments 
