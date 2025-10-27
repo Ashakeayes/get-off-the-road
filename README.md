@@ -6,7 +6,7 @@ Mixing similar game play elememts from childhood classic games but set in a cont
 
 ## Table of Contents
 *  [General Information](#general-Information)
-*  [Technolgoies Used](#Technologies-Used) 
+*  [Technologies Used](#Technologies-Used) 
 *  [Features](#Features)
 *  [Screenshots](#Screenshots)
 *  [Setup](#Setup)
@@ -17,7 +17,7 @@ Mixing similar game play elememts from childhood classic games but set in a cont
 Get off the road!, purpose is to unlock that childlike part of your brain by evoking feelings of nostalgia and inviting play. Through using similar game play motivations and interactions from childhood games to create fast interactive play and placing it in a relatable context, Get off the road achieves this purpose. It is a game that is targetted to adults when they want a break from their stressful life and want to feel like a child again. I personally love playing games on my phone when I have a quick break or waiting in line for something, so having a game that is easy to play and understand was essential. 
 * Get off the road is all about navigtaing through obstacles to try and not lose lives while the roads have seen better days and the drivers act like they have never driven before. 
 
-## Technolgoies Used
+## Technologies Used
 * Microsoft MakeCode Aracde 
 * Python
 
