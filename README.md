@@ -34,9 +34,12 @@ Get off the road!, purpose is to unlock that childlike part of your brain by evo
 * Then click the link added in this Git Repository and it will take you to the game
 
 ## Usage 
+* For the game:
 * Press A to start
 * Use left and right arrows to move along the screen
 * Press A to jump
+* For my Git Hub:
+* Please see the different weeks files to see prototypes, tutorials and code that guided me and examples of the code i wrote 
 
 ## Acknowledgements 
 * My project was inspired and helped by:
