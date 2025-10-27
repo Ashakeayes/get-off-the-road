@@ -33,14 +33,49 @@ Get off the road!, purpose is to unlock that childlike part of your brain by evo
 ## Setup 
 For game:
 * Click the link added in this Git Repository and it will take you to the game
+* Press A to start 
 For my Git Hub:
 * Please see the different weeks files to see prototypes, tutorials and code that guided me and examples of the code i wrote
   
 ## Usage 
-* For the game:
 * Press A to start
-* Use left and right arrows to move along the screen
-* Press A to jump
+# Player Controls
+* controller.A.on_event(ControllerButtonEvent.PRESSED, on_a_pressed)
+* controller.move_sprite(RedCar, 120, 0)
+* Jump and move left and right to avoid enemies 
+# How enemies spawn 
+*def on_forever():
+    global EnemyPinkCar
+    EnemyPinkCar = sprites.create(assets.image("""Pink car"""), SpriteKind.enemy)
+    EnemyPinkCar.set_position(randint(0, 160), 1)
+    EnemyPinkCar.set_velocity(0, enemySpeed)
+    pause(enemySpawnTime)
+forever(on_forever)
+* def on_update_interval3():
+    global EnemyOrangeCar
+    EnemyOrangeCar = sprites.create(assets.image("""orange car"""), SpriteKind.enemy)
+    EnemyOrangeCar.set_position(randint(0, 160), 0) 
+    EnemyOrangeCar.set_velocity(0, 100)
+game.on_update_interval(7000, on_update_interval3)
+* They spawn from the top of the screen and fall down- some with increasing speeds some not  
+# Collision detection and lives 
+*def on_overlap(sprite, otherSprite):
+    info.change_life_by(-1)
+    scene.camera_shake(3, 500)
+    sprites.destroy(sprite)
+    otherSprite.say_text("F### O##", 800)
+    pause(100)
+sprites.on_overlap(SpriteKind.enemy, SpriteKind.player, on_overlap)
+*The enemy is destroyed and RedCar loses a life each time it collides with an enemy
+# Increasing difficulty 
+*def on_update_interval2():
+    global enemySpeed, enemySpawnTime
+    enemySpeed += 5
+    enemySpeed = min(enemySpeed, 80)
+    enemySpawnTime += -150
+    enemySpawnTime = max(enemySpawnTime, 500)
+game.on_update_interval(10000, on_update_interval2)
+*The time that enemies spawn decreases and their speed increases over time 
 
 ## Acknowledgements 
 * My project was inspired and helped by:
