@@ -1,4 +1,4 @@
-<img width="468" height="109" alt="image" src="https://github.com/user-attachments/assets/17d0518e-be19-4ad6-9bf8-c0bfff487c9b" /># get-off-the-road
+# Get off the road!
 Get off the road!, is a video game inspired by the nostaglic experience of playing a game you once used to play in your childhood but sadly facing the reality that it may not be as fun now that you have grown up. 
 I wanted to make something that evoked those feelings of nostalgia while also being something that one can enjoy and is relatable to them now in their adult context. 
 Get off the road is that game! 
