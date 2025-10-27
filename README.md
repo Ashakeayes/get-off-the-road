@@ -39,7 +39,7 @@ For my Git Hub:
   
 ## Usage 
 * Press A to start
-* Player Controls
+### Player Controls
 * controller.A.on_event(ControllerButtonEvent.PRESSED, on_a_pressed)
 * controller.move_sprite(RedCar, 120, 0)
 * Jump and move left and right to avoid enemies 
