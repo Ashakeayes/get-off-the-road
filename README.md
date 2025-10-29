@@ -33,7 +33,9 @@ Get off the roads purpose is to unlock that childlike part of your brain by evok
 
 ## Screenshots 
 ![Starting page screenshots](arcade-A2---Copy.png) 
-![Game play screenshot](arcade-A2---Copy copy.png) 
+
+
+![gameplayscreeshots](gameplayCopy copy.png) 
 
 ## Setup 
 For game:
