@@ -38,7 +38,7 @@ Get off the roads purpose is to unlock that childlike part of your brain by evok
 
 ## Setup 
 For game:
-* Click the link added in this Git Repository and it will take you to the game
+* Click the link added in this Git Repository or the downloaded file labelled 'Finalgameprototype' and it will take you to the game
 * Press A to start
 
 For my Git Hub:
