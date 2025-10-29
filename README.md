@@ -20,8 +20,8 @@ Get off the roads purpose is to unlock that childlike part of your brain by evok
 * Get off the road is all about navigtaing through obstacles to try and not lose lives while the roads have seen better days and the drivers act like they have never driven before. 
 
 ## Technologies Used
-* Microsoft MakeCode Aracde 
-* Python
+* Microsoft MakeCode version: 11.3.65
+* arcade version: 2.0.61
 
 ## Features 
 *  Jump and dodge (moving left and right) multiple types of enemies that come at you
