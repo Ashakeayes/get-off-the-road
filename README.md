@@ -32,7 +32,7 @@ Get off the roads purpose is to unlock that childlike part of your brain by evok
 *  Dynamic enemy collisions
 
 ## Screenshots 
-! [Starting page screenshots](starting page screenshot)
+! [Starting page screenshots](arcade-A2---Copy.png) 
 
 ## Setup 
 For game:
