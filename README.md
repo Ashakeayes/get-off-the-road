@@ -38,7 +38,7 @@ Get off the roads purpose is to unlock that childlike part of your brain by evok
 
 ## Setup 
 For game:
-* Click the link below or the downloaded file labelled 'Finalgameprototype' and it will take you to the game
+* Click the link below or the downloaded file above labelled 'final-prototype-getofftheroad' and it will take you to the game
 * Press A to start
 * https://arcade.makecode.com/S20503-90083-19409-38200 
 
