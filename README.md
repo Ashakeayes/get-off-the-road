@@ -28,6 +28,7 @@ Get off the roads purpose is to unlock that childlike part of your brain by evok
 *  Try and get through each 15 seconds to increase your score
 *  Enemies spawn faster and are quicker as you continue to play
 *  You only have three lives
+*  Dynamic enemy collisions 
 
 ## Setup 
 For game:
