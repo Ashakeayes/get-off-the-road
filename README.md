@@ -95,14 +95,13 @@ game.on_update_interval(15000, on_update_interval)
 * My project was inspired and helped by:
 * Microsoft. (n.d.). Cat Jumper. [Game Code]. Microsoft MakeCode Arcade. https://arcade.makecode.com/blocks-games/cat-jumper 
 * Microsoft MakeCode. (2020, September 18). How to Increase the Difficulty of Your MakeCode Arcade Game [Video]. YouTube. https://www.youtube.com/watch?v=KFT9joQrSSM
+* Unknown Author(n.d.). Space Shooter- increased difficulty [Game Code]. Microsoft MakeCode Arcade. https://arcade.makecode.com/55907-81135-33705-28070
 * I did have some other resources help guide me these are noted in each weeks code notes and below:
-* Microsoft. (n.d.). Activity: Sprite Overlap Events. Microsoft MakeCode Arcade.
-* Microsoft MakeCode. (2021, March 27). How to create an Arcade game [Video]. YouTube. https://www.youtube.com/watch?v=7pBGS_tKfmU&list=PLMMBk9hE-SepPgF7YE099S-VluvZmRkO0 
-https://arcade.makecode.com/courses/csintro3/events/overlap
+* Microsoft. (n.d.). Activity: Sprite Overlap Events. Microsoft MakeCode Arcade.https://arcade.makecode.com/courses/csintro3/events/overlap 
 * Prottsman, K. (2022, June 13). Adding Levels to Your Game with MakeCode Arcade. Medium. https://medium.com/kikis-corner/arcade-levels-b9260c8f4d19
 * Salisbury Library Service. (2021, August 2). MakeCode Arcade Tutorial 4: Enemies [Video]. YouTube. https://www.youtube.com/watch?v=Nz9xXNfhqAc&t=292s
 * Stapleton, A. (2025). Code Week 05 Tutorial 2025.pdf [Subject 52685 Tutorial slides]. UTS Canvas. https://canvas.uts.edu.au/courses/37106/files/10218971?module_item_id=2338258
-* Unknown Author(n.d.). Space Shooter- increased difficulty [Game Code]. Microsoft MakeCode Arcade. https://arcade.makecode.com/55907-81135-33705-28070
+
 
 
 
