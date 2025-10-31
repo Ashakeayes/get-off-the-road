@@ -101,6 +101,13 @@ game.on_update_interval(15000, on_update_interval)
 * Prottsman, K. (2022, June 13). Adding Levels to Your Game with MakeCode Arcade. Medium. https://medium.com/kikis-corner/arcade-levels-b9260c8f4d19
 * Salisbury Library Service. (2021, August 2). MakeCode Arcade Tutorial 4: Enemies [Video]. YouTube. https://www.youtube.com/watch?v=Nz9xXNfhqAc&t=292s
 * Stapleton, A. (2025). Code Week 05 Tutorial 2025.pdf [Subject 52685 Tutorial slides]. UTS Canvas. https://canvas.uts.edu.au/courses/37106/files/10218971?module_item_id=2338258
+* Assets used
+* Microsoft. (n.d.). MakeCode Arcade (Version 11.3.65) [Computer Software]. https://arcade.makecode.com/
+* Microsoft. (n.d.). sprites.vehicle.carRedBack [Gallery Assets]. Makecode Arcade. https://arcade.makecode.com/
+* Microsoft. (n.d.). sprites.vehicle.carPinkBack [Gallery Assets]. Makecode Arcade. https://arcade.makecode.com/
+* Microsoft. (n.d.). sprites.vehicle.carBlueBack [Gallery Assets]. Makecode Arcade. https://arcade.makecode.com/
+* The rest of the project assets I created 
+
 
 
 
